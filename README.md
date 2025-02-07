@@ -25,6 +25,8 @@ The actual check logic is provided in `CS3213_check_doc.py` (previously `check_d
 Sadly, there is nothing for us to deploy, so there is no hands-on here. 
 However, `.github/workflows/release.yml.txt` is a real world CD workflow from SQLancer which you can take a look at.
 
+## Test
+
 ## Post Scriptum: Self-Hosted Runner
 GitHub has a limited quota on GitHub Action runner time for private repos.
 For CS3213, we work around this by using self-hosted runners served by our own servers.
